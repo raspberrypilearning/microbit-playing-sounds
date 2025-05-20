@@ -61,3 +61,5 @@ Als je een micro:bit V1 gebruikt, is er geen luidspreker om de geluiden af te sp
 Voor deze stap heb je een bedrade koptelefoon en twee krokodillenklemmen nodig.
 
 Bekijk de [gids van de micro:bit om je te helpen je koptelefoon aan te sluiten](https://makecode.microbit.org/projects/hack-your-headphones/make){:target="_blank"}.
+
+
