@@ -61,3 +61,5 @@ If you are using a micro:bit V1, there is no speaker to play the sounds, so inst
 You will need wired headphones and two crocodile clip cables for this step.
 
 Take a look at the [guide from micro:bit to help you attach your headphones](https://makecode.microbit.org/projects/hack-your-headphones/make){:target="_blank"}.
+
+
