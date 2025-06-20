@@ -1,0 +1,9 @@
+The Music menu open with the 'play tone' block highlighted.
+
+The drop-down menu on the play tone block expanded with `middle G` highlighted.
+
+The drop-down menu on the play melody block expanded to show the melody options.
+
+The Music menu open with the 'play giggle' block highlighted.
+
+The drop-down menu on the 'play giggle' block expanded to show clip options.
