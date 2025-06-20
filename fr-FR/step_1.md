@@ -1,65 +1,65 @@
-The micro:bit can play sounds, including notes, melodies, and short audio clips (V2 only).
+Le micro:bit peut jouer des sons, notamment des notes, des mélodies et de courts clips audio (V2 uniquement).
 
-The blocks in this step all come from the `Music`{:class='microbitmusic'} menu in the Toolbox.
+Les blocs de cette étape proviennent tous du menu `Musique` de la boîte à outils.
 
-### Play notes
+### Jouer des notes
 
-The micro:bit can play individual notes or tones.
+Le micro:bit peut jouer des notes ou des sons individuels.
 
-You can find the `play tone`{:class='microbitmusic'} block in the `Music`{:class='microbitmusic'} menu.
+Tu peux trouver le bloc `jouer tonalité`{:class='microbitmusic'} dans le menu `Musique`{:class='microbitmusic'}.
 
 <img src="images/music-playtone.png" alt="The Music menu open with the 'play tone' block highlighted." width="350"/>
 
-Drag the `play tone`{:class='microbitmusic'} block inside any loop or event block.
+Fais glisser le bloc `jouer tonalité`{:class='microbitmusic'} à l'intérieur d'un bloc de boucle ou d'événement.
 
-In this example, the `on start`{:class='microbitbasic'} block has been used.
+Dans cet exemple, le bloc `au démarage`{:class='microbitbasic'} a été utilisé.
 
-Click on the `Middle C` to change the selected note.
+Clique sur le `Middle C` pour modifier la note sélectionnée.
 
-Select any note of your choice. `Middle G` has been used in this example.
+Sélectionne la note de ton choix. `Middle G` a été utilisé dans cet exemple.
 
 <img src="images/playtone-middleg.png" alt="The drop-down menu on the play tone block expanded with `middle G` highlighted." width="350"/>
 
-### Play melodies
+### Jouer des mélodies
 
-You can also play some pre-programmed melodies from your micro:bit.
+Tu peux également jouer certaines mélodies préprogrammées depuis ton micro:bit.
 
-In the `Music`{:class='microbitmusic'} menu of the Toolbox, find the `play melody`{:class='microbitmusic'} block in the Melody Advanced section.
+Dans le menu `Musique`{:class='microbitmusic'} de la boîte à outils, trouve le bloc `jouer mélodie`{:class='microbitmusic'} dans la section Mélodie Avancée.
 
 <img src="images/play-melody.png" alt="The Music menu open with the 'play melody' block highlighted." width="350"/>
 
-Place it inside any loop or event block.
+Place-le à l'intérieur de n'importe quelle boucle ou bloc d'événement.
 
-In this example, the `forever`{:class='microbitbasic'} block has been used.
+Dans cet exemple, le bloc `toujours`{:class='microbitbasic'} a été utilisé.
 
-Click on `melody dadadum` on the `play melody`{:class='microbitmusic'} block to select a different melody.
+Clique sur le bloc `mélodie dadadum` sur `jouer mélodie`{:class='microbitmusic'} pour sélectionner une mélodie différente.
 
 <img src="images/melody-choices.png" alt="The drop-down menu on the play melody block expanded to show the melody options." width="350"/>
 
-### Play short audio clips (micro:bit V2 only)
+### Jouer de courts clips audio (micro:bit V2 uniquement)
 
-On the newer micro:bit, alongside the microphone, you have the ability to play short audio clips.
+Sur le dernier micro:bit, à côté du microphone, tu as la possibilité de jouer de courts clips audio.
 
-Open the `Music`{:class='microbitmusic'} menu and find the `play giggle`{:class='microbitmusic'} block from the micro:bit V2 section.
+Ouvre le menu `Musique`{:class='microbitmusic'} et trouve le bloc `jouer gloussement`{:class='microbitmusic'} de la section V2 du micro:bit.
 
 <img src="images/play-giggle.png" alt="The Music menu open with the 'play giggle' block highlighted." width="350"/>
 
-Place it inside any loop or event block.
+Place-le à l'intérieur de n'importe quelle boucle ou bloc d'événement.
 
-In this example, the `on button`{:class='microbitinput'} block has been used.
+Dans cet exemple, le bloc `lorsque le bouton`{:class='microbitinput'} a été utilisé.
 
-Click on the `giggle` part of the block and select another clip.
+Clique sur la partie `gloussement` du bloc et sélectionne un autre clip.
 
 <img src="images/playgiggle-choices.png" alt="The drop-down menu on the 'play giggle' block expanded to show clip options." width="350"/>
 
-In this example, `twinkle` has been used.
+Dans cet exemple, `scintillement` a été utilisé.
 
-### V1 micro:bit users
+### Utilisateurs du micro:bit V1
 
-If you are using a micro:bit V1, there is no speaker to play the sounds, so instead you have to attach headphones to the GPIO pins.
+Si tu utilises un micro:bit V1, il n'y a pas de haut-parleur pour diffuser les sons, tu devras donc brancher des écouteurs sur les broches GPIO.
 
-You will need wired headphones and two crocodile clip cables for this step.
+Tu auras besoin d’écouteurs filaires et de deux câbles à pince crocodile pour cette étape.
 
-Take a look at the [guide from micro:bit to help you attach your headphones](https://makecode.microbit.org/projects/hack-your-headphones/make){:target="_blank"}.
+Jette un œil au [guide de micro:bit pour t'aider à brancher tes écouteurs](https://makecode.microbit.org/projects/hack-your-headphones/make){:target="_blank"}.
 
 
